@@ -3,36 +3,36 @@
     "title": "JavaScript Basics",
     "author": "Anmar",
     "year": 2024,
-    "image": "https://placekitten.com/200/200"
+    "image": "https://picsum.photos/id/1015/200/200"
   },
   {
     "title": "CSS Styling",
     "author": "John Doe",
     "year": 2023,
-    "image": "https://via.placeholder.com/150"
+    "image": "https://picsum.photos/id/1016/200/200"
   },
   {
     "title": "HTML Essentials",
     "author": "Jane Smith",
     "year": 2022,
-    "image": "https://via.placeholder.com/150"
+    "image": "https://picsum.photos/id/1018/200/200"
   },
   {
     "title": "React.js Guide",
     "author": "Chris Ray",
     "year": 2024,
-    "image": "https://via.placeholder.com/150"
+    "image": "https://picsum.photos/id/1020/200/200"
   },
   {
     "title": "Node.js Crash Course",
     "author": "Alex Doe",
     "year": 2023,
-    "image": "https://via.placeholder.com/150"
+    "image": "https://picsum.photos/id/1024/200/200"
   },
   {
     "title": "Web Accessibility",
     "author": "Lana King",
     "year": 2022,
-    "image": "https://via.placeholder.com/150"
+    "image": "https://picsum.photos/id/1025/200/200"
   }
 ]
